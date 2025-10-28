@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2025-11-25",
+        "category": "Energy",
+        "description": "turned on tap when we use.",
+        "impact": "medium"
+    },
+    {
+        "date": "2025-11-20",
+        "category": "Energy",
+        "description": "turned off lights when not in use.",
+        "impact": "Low"
+    },
+    {
+        "date": "2025-12-10",
+        "category": "Transport",
+        "description": "drivind a car",
+        "impact": "Low"
+    },
+    {
+        "date": "2025-12-01",
+        "category": "Energy",
+        "description": "turned light of when we use",
+        "impact": "Low"
+    },
+    {
+        "date": "2025-11-20",
+        "category": "Water",
+        "description": "turned off when not in use",
+        "impact": "Low"
+    },
+    {
+        "date": "2025-12-05",
+        "category": "Transport",
+        "description": "driving a car",
+        "impact": "Medium"
+    },
+    {
+        "date": "2025-12-12",
+        "category": "Waste",
+        "description": "throw in a dustbin",
+        "impact": "Medium"
+    },
+    {
+        "date": "2025-12-04",
+        "category": "Water",
+        "description": "tap turned on when we use",
+        "impact": "Medium"
+    }
+]
